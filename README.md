@@ -43,12 +43,6 @@
 - **Cross-platform Scripts**: Optimized shell scripts for different architectures
 - **Memory Efficient**: Smart log management and resource optimization
 
-## 🖼️ Screenshots
-
-| Dashboard | Configuration | Settings |
-|-----------|---------------|----------|
-| ![Dashboard](https://via.placeholder.com/250x150/34495e/ecf0f1?text=Dashboard) | ![Config](https://via.placeholder.com/250x150/2980b9/ecf0f1?text=Configuration) | ![Settings](https://via.placeholder.com/250x150/27ae60/ecf0f1?text=Settings) |
-
 ## 📋 Requirements
 
 ### System Requirements

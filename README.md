@@ -63,7 +63,7 @@
 ### Method 1: One-Command Run
 
 ```bash
-git clone https://github.com/yourusername/Ventoy-X.git
+git clone https://github.com/mohdismailmatasin/Ventoy-X.git
 cd Ventoy-X
 ./run.sh
 ```
@@ -71,7 +71,7 @@ cd Ventoy-X
 ### Method 2: Using Make
 
 ```bash
-git clone https://github.com/yourusername/Ventoy-X.git
+git clone https://github.com/mohdismailmatasin/Ventoy-X.git
 cd Ventoy-X
 make venv
 make run
@@ -80,7 +80,7 @@ make run
 ### Method 3: Manual Setup
 
 ```bash
-git clone https://github.com/yourusername/Ventoy-X.git
+git clone https://github.com/mohdismailmatasin/Ventoy-X.git
 cd Ventoy-X
 python3 -m venv venv
 source venv/bin/activate
@@ -101,7 +101,7 @@ sudo apt install python3 python3-venv python3-pip git
 sudo apt install sbsigntool
 
 # Clone and run
-git clone https://github.com/yourusername/Ventoy-X.git
+git clone https://github.com/mohdismailmatasin/Ventoy-X.git
 cd Ventoy-X
 ./run.sh
 ```
@@ -131,7 +131,7 @@ sudo pacman -S python python-pip git
 sudo pacman -S sbsigntools
 
 # Clone and run
-git clone https://github.com/yourusername/Ventoy-X.git
+git clone https://github.com/mohdismailmatasin/Ventoy-X.git
 cd Ventoy-X
 ./run.sh
 ```
